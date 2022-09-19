@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devTarak
+- 👋 Hi, I’m Tarak Rahman
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Jave
 - 📫 How to reach me ...Just What's app me: +8801304404489
