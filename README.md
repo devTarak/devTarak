@@ -21,8 +21,8 @@
 <p align="left">
 <a href="https://twitter.com/experttarak" target="blank"><img align="center" src="img/twitter.svg" alt="experttarak" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/experttarak" target="blank"><img align="center" src="img/linked-in-alt.svg" alt="experttarak" height="30" width="40" /></a>
-<a href="https://fb.com/official.yourtarak" target="blank"><img align="center" src="img/facebook.svg" alt="official.yourtarak" height="30" width="40" /></a>
-<a href="https://instagram.com/developer.tarak" target="blank"><img align="center" src="img/instagram.svg" alt="developer.tarak" height="30" width="40" /></a>
+<a href="https://fb.com/yourtarak" target="blank"><img align="center" src="img/facebook.svg" alt="official.yourtarak" height="30" width="40" /></a>
+<a href="https://instagram.com/tarak.developer" target="blank"><img align="center" src="img/instagram.svg" alt="developer.tarak" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
