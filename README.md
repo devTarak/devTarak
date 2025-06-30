@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/experttarak" target="blank"><img src="https://img.shields.io/twitter/follow/experttarak?logo=twitter&style=for-the-badge" alt="experttarak" /></a> </p>
 
-- 🔭 I’m currently working on **Android App Development**
+- 🔭 I’m currently working on **Back-end Engineering**
 
 - 🌱 I’m currently learning **Jave and Php**
 
