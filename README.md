@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Programming and Web Development**
 
-- 📫 How to reach me **devtarak@hotmail.com**
+- 📫 How to reach me **codertarak@gmail.com**
 
 - 📄 Know about my experiences [https://devtarak.github.io/tarak-rahman.pdf](https://devtarak.github.io/img/tarak-rahman.pdf)
 
